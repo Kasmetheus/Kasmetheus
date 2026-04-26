@@ -1,0 +1,15 @@
+{
+  "name": "operations-platform",
+  "version": "0.1.0",
+  "description": "Web platform — placeholder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
